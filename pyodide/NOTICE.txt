@@ -1,0 +1,8 @@
+Pyodide 314.0.8 (https://pyodide.org), the Python interpreter the Raspberry Pi boards run
+their programs on. These are the unmodified runtime files of the npm package `pyodide`:
+pyodide.mjs (with its source map), pyodide.asm.mjs, pyodide.asm.wasm, python_stdlib.zip,
+pyodide-lock.json.
+
+Pyodide is distributed under the Mozilla Public License 2.0 (https://www.mozilla.org/MPL/2.0/);
+the source is at https://github.com/pyodide/pyodide. CPython, which it contains, is under
+the Python Software Foundation License.
